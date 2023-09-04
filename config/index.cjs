@@ -111,7 +111,7 @@ const USER_CONFIG = {
       name: '张盛莲',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
-      id: '',//SCT221977Ttm9z5QHXE4UWIlWge0cinOIb
+      id: 'SCT221977Ttm9z5QHXE4UWIlWge0cinOIb',//SCT221977Ttm9z5QHXE4UWIlWge0cinOIb
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
       useTemplateId: '0001',
@@ -129,7 +129,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝莲莲', year: '1999', date: '03-05',
+          type: '*生日', name: '莲莲宝贝', year: '1999', date: '03-05',
         }
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
