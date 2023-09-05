@@ -27,6 +27,8 @@ const TEMPLATE_CONFIG = [
       今天是我们在一起的第{{love_day.DATA}}天
 
       {{birthday_message.DATA}} 
+      
+      {{earthy_love_words.DATA}}
 
       ---
       
@@ -35,7 +37,9 @@ const TEMPLATE_CONFIG = [
           {{course_schedule.DATA}}
            
       ---
-      {{poetry_title.DATA}} >>> {{poetry_content.DATA}}
+      {{note_en.DATA}} 
+      
+      {{note_ch.DATA}}
     `
   },
   {
