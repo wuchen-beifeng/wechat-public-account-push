@@ -135,10 +135,10 @@ const USER_CONFIG = {
           type: '*生日', name: '莲莲宝贝', year: '1999', date: '03-05',
         },
         {
-          type: '六级考试', name: '莲莲', year: '2023', date: '12-16',
+          type: '节日', name: '六级考试', year: '2023', date: '12-16',
         },
         {
-          type: '导游资格证', name: '莲莲', year: '2023', date: '11-25',
+          type: '节日', name: '导游资格证', year: '2023', date: '11-25',
         }
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
@@ -287,10 +287,10 @@ const USER_CONFIG = {
           type: '*生日', name: '莲莲宝贝', year: '1999', date: '03-05',
         },
         {
-          type: '六级考试', name: '莲莲', year: '2023', date: '12-16',
+          type: '节日', name: '六级考试', year: '2023', date: '12-16',
         },
         {
-          type: '导游资格证', name: '莲莲', year: '2023', date: '11-25',
+          type: '节日', name: '导游资格证', year: '2023', date: '11-25',
         }
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
