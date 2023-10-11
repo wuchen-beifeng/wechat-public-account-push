@@ -29,13 +29,7 @@ const TEMPLATE_CONFIG = [
       {{birthday_message.DATA}} 
       
       {{earthy_love_words.DATA}}
-
-      ---
-      
-      今日课表：
-      
-          {{course_schedule.DATA}}
-           
+       
       ---
       {{note_en.DATA}} 
       
